@@ -1,10 +1,11 @@
 # Novard  
 ### *Quantitative Innovation for the Next Frontier*  
 
-![Quant Finance](https://img.shields.io/badge/Quant-Hedge_Fund_Strategies-blue)  
-![Risk](https://img.shields.io/badge/Risk-Management-red)  
+![Quant Finance](https://img.shields.io/badge/Quant-Hedge_Fund_Strategies-blue)
+![Portfolio](https://img.shields.io/badge/Portfolio-Optimistion-yello)
+![Risk](https://img.shields.io/badge/Risk-Management_and_Analysis-red)  
 ![ESG](https://img.shields.io/badge/ESG-Quant_Strategies-green)  
-![Quantum](https://img.shields.io/badge/Quantum-Finance-purple)  
+![Quant](https://img.shields.io/badge/Quant-Research_and_Aplha_Generation-purple)  
 
 ---
 
