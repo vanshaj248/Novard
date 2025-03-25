@@ -1,4 +1,4 @@
-# <img src="https://via.placeholder.com/40/000000/FFFFFF?text=N" width="30" height="30"> Novard  
+# Novard  
 ### *Quantitative Innovation for the Next Frontier*  
 
 ![Quant Finance](https://img.shields.io/badge/Quant-Hedge_Fund_Strategies-blue)  
