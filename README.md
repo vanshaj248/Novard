@@ -40,7 +40,7 @@ We welcome:
 - **Academic collaborations** (quant research papers)  
 - **Data providers** (alternative datasets)  
 
-**Contact**: `research@novard.com`  
+**Contact**: `vanshajshah00@gmail.com`  
 
 ---
 
